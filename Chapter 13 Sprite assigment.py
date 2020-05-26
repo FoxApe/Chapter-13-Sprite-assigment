@@ -118,3 +118,7 @@ def main():
 
 if __name__=='__main__':    
     main()
+
+#  Good.  The animation works, however, the cat is wobbling back and forth.
+#  I think you can center the patches so that it animates more smoothly.
+# Score: 95
